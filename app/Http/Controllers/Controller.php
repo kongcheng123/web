@@ -8,6 +8,6 @@ class Controller extends BaseController
 {
     //
     public function test(){
-        echo "success";
+        echo "success123";
     }
 }

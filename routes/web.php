@@ -15,4 +15,4 @@
     return $app->version();
 });*/
 
-$app->get('/','Controller@test');
+$app->get('/test','Controller@test');
